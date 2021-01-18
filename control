@@ -1,0 +1,8 @@
+Package: idmarker
+Version: 1.0
+Architecture: all
+Maintainer: Brandon Wu <brandicast@gmail.com>
+Depends: python3 
+Installed-Size: in_kb
+Homepage: http://example.com
+Description: This is a program to overlay text on image.  Intend to use for personal id sharing.

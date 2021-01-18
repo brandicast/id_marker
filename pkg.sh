@@ -1,0 +1,1 @@
+ pyinstaller --add-binary resource/jf-openhuninn-1.1.ttf:resource/ -F -n id_marker marker_gui.py
